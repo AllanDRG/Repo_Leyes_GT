@@ -71,8 +71,5 @@ La ley establece un régimen especial para los naturales de los países que cons
 
 **( ... Artículos 77 al 80 sobre Vigencia y Derogatoria de Leyes Anteriores ... )**
 
----
 
-¡Listo! Ya tienes el archivo **`Ley de Nacionalidad.md`**.
 
-¿Continuamos ahora con el séptimo archivo, el **`Código de Comercio.md`**?
