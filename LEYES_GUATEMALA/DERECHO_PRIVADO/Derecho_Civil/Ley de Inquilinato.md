@@ -88,8 +88,3 @@ El locador que cobrare más de la renta que correspondiere pagar, será sanciona
 
 **( ... Artículos 51 al 60 sobre Prohibiciones al Locador (ej. suspender servicios), Procedimiento de Multas, y Disposiciones Finales ... )**
 
----
-
-¡El archivo **`Ley de Inquilinato.md`** está completo!
-
-¿Continuamos ahora con el sexto archivo, la **`Ley de Nacionalidad.md`**?
