@@ -88,8 +88,3 @@ Queda prohibido a los herederos, legatarios, albaceas o administradores de la he
 
 **( ... Artículos 63 al 73 sobre Multas, Recargos, Evasión del Impuesto, Procedimiento Contencioso-Administrativo y Disposiciones Finales. )**
 
----
-
-¡Listo! Ya tienes el archivo **`Ley Sobre el Impuesto de Herencias, Legados y Donaciones.md`** con la estructura completa.
-
-¿Continuamos ahora con el cuarto archivo, la **`Ley de Armas y Municiones.md`**?
