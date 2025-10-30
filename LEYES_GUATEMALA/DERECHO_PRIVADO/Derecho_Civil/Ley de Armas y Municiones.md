@@ -118,6 +118,4 @@ Para registrar las armas de fuego, se deberá justificar la propiedad de las mis
 
 ---
 
-¡Listo! Ya tienes la estructura del archivo **`Ley de Armas y Municiones.md`**.
 
-¿Continuamos ahora con el quinto archivo, la **`Ley de Inquilinato.md`**?
