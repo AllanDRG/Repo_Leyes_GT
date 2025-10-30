@@ -146,8 +146,3 @@ Además de los procesos regulados en este Código, las partes pueden recurrir a 
 
 **( ... Artículos 604 al 634 sobre Disposiciones Finales y Vigencia ... )**
 
----
-
-¡Listo! Ya tienes la estructura completa para **`Código Procesal Civil y Mercantil.md`**.
-
-¿Continuamos con la tercera ley, **`Ley Sobre el Impuesto de Herencias, Legados y Donaciones.md`**?
